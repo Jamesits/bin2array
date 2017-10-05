@@ -30,12 +30,12 @@ optional arguments:
   -l LINEBREAK, --linebreak LINEBREAK
                         add linebreak after every N element
   -L LINEBREAK_STRING, --linebreak-string LINEBREAK_STRING
-                        use what to break link, defaults to
+                        use what to break link, defaults to "\n"
   -S SEPARATOR_STRING, --separator-string SEPARATOR_STRING
                         use what to separate elements, defaults to ", "
   -H ELEMENT_PREFIX, --element-prefix ELEMENT_PREFIX
                         string to be added to the head of element, defaults to
-                        0x
+                        "0x"
   -T ELEMENT_SUFFIX, --element-suffix ELEMENT_SUFFIX
                         string to be added to the tail of element, defaults to
                         none
